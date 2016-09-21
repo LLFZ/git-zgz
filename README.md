@@ -2,3 +2,4 @@
 git-zgz
 
 Borro todo
+Casi limpio
