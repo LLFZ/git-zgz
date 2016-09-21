@@ -12,10 +12,18 @@ y otro
 
 Cambio 1
 
-Cambio 2
 
+<<<<<<< HEAD
 Cambio 3
 
 Cambio 4
 
 Ejercicio 1 - cambio 3
+=======
+commit1
+
+
+commit2
+
+commit3
+>>>>>>> refs/heads/development
